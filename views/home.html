@@ -1,0 +1,13 @@
+<p>{{variabile}}</p>
+<p>Elenco:</p>
+  Ricerca: <input ng-model="query">
+   Ordina by:
+   <select ng-model="orderLTM">
+      <option value="cognome">Alfabetico</option>
+      <option value="specializzazione">Specializzazione</option>
+   </select>
+<ul>
+  <li ng-repeat="stud in students | filter:query | orderBy:orderLTM"><a href="#/students/{{stud.studId}}">{{stud.cognome}} {{stud.nome}}</a>
+    <p>{{stud.specializzazione}}</p>
+  </li>
+</ul>

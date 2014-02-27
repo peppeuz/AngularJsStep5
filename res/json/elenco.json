@@ -1,0 +1,182 @@
+[
+    {
+        "studId": "1",
+        "cognome": "Andrulli", 
+        "nome": "Domenico",
+        "specializzazione":"Programmatore"
+    }, 
+    {
+        "studId": "2",
+        "cognome": "Antonini", 
+        "nome": "Donato", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "3",
+        "cognome": "Arsuffi", 
+        "nome": "Alessio", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "4",
+        "cognome": "Barbara", 
+        "nome": "Davide", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "5",
+        "cognome": "Brischetto", 
+        "nome": "Rosario", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "6",
+        "cognome": "Covertini", 
+        "nome": "Agostino", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "7",
+        "cognome": "Costa", 
+        "nome": "Sebastiano", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "8",
+        "cognome": "D'Adduzio", 
+        "nome": "Nicola", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "9",
+        "cognome": "Ferrari", 
+        "nome": "Pietro", 
+        "specializzazione":"Grafico"
+    },
+    {
+        "studId": "10",
+        "cognome": "Mannina", 
+        "nome": "Vito", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "11",
+        "cognome": "Mascolo", 
+        "nome": "Donato", 
+        "specializzazione":"Grafico"
+    },
+    {
+        "studId": "12",
+        "cognome": "Migliuri", 
+        "nome": "Francesco", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "13",
+        "cognome": "Modena", 
+        "nome": "Giuseppe", 
+        "specializzazione":"Grafico"
+    },
+    {
+        "studId": "14",
+        "cognome": "Monatanoro", 
+        "nome": "Luigi", 
+        "specializzazione":"Grafico"
+    },
+    {
+        "studId": "15",
+        "cognome": "Neacsu", 
+        "nome": "Florin", 
+        "specializzazione":"Grafico"
+    },
+    {
+        "studId": "16",
+        "cognome": "Nokra", 
+        "nome": "Amine", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "17",
+        "cognome": "Pani", 
+        "nome": "Giorgio", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "18",
+        "cognome": "Parlato", 
+        "nome": "Rosario", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "19",
+        "cognome": "Perta", 
+        "nome": "Giuseppe", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "20",
+        "cognome": "Renò", 
+        "nome": "Vito", 
+        "specializzazione":"Grafico"
+    },
+    {
+        "studId": "21",
+        "cognome": "Romagno", 
+        "nome": "Giacomo", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "22",
+        "cognome": "Ruggirello", 
+        "nome": "Massimo", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "23",
+        "cognome": "Santese", 
+        "nome": "Marco", 
+        "specializzazione":"Grafico"
+    },
+    {
+        "studId": "24",
+        "cognome": "Scardigno", 
+        "nome": "Antonio", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "25",
+        "cognome": "Scavo", 
+        "nome": "Marco", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "26",
+        "cognome": "Sergi", 
+        "nome": "Sacha", 
+        "specializzazione":"Grafico"
+    },
+    {
+        "studId": "27",
+        "cognome": "Serio", 
+        "nome": "Giovanni", 
+        "specializzazione":"Grafico"
+    },
+    {
+        "studId": "28",
+        "cognome": "Sorrenti", 
+        "nome": "Marco", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "29",
+        "cognome": "Torrano", 
+        "nome": "Giuseppe", 
+        "specializzazione":"Programmatore"
+    },
+    {
+        "studId": "30",
+        "cognome": "Tripodi", 
+        "nome": "Giuseppe", 
+        "specializzazione":"Programmatore"
+    }
+]

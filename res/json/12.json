@@ -1,0 +1,11 @@
+[
+    {
+        "studId": "12",
+        "cognome": "Migliuri", 
+        "nome": "Francesco",
+        "imageUrl": "res/img/Migliuri Francesco.jpg", 
+        "specializzazione":"Programmatore",
+        "residenza": "Serra Pedace",
+        "provincia": "Cosenza"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "studId": "30",
+        "cognome": "Tripodi", 
+        "nome": "Giuseppe",
+        "imageUrl": "res/img/Tripodi Giuseppe.jpg", 
+        "specializzazione":"Programmatore",
+        "residenza": "Villa San Giovanni",
+        "provincia": "Reggio Calabria"
+    }
+]

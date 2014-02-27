@@ -1,0 +1,9 @@
+<!--Detail-->
+<p>Dettagli:</p>
+<ul>
+  <li ng-repeat="stud in students">{{stud.cognome}} {{stud.nome}}
+  		<p>{{stud.provincia}}</p>
+  		<p>{{stud.residenza}}</p>
+  		<p><img ng-src="{{stud.imageUrl}}"></p>
+  </li>
+</ul>
